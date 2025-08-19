@@ -87,16 +87,16 @@
 
 <div align="center">
   <a href="https://github.com/jeived2077/SoundMusic" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=SoundMusic&theme=tokyonight&show_owner=true" alt="SoundMusic Project">
+    <img src="" alt="SoundMusic Project">
   </a>
   <a href="https://github.com/jeived2077/API_Task_Manager" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=API_Task_Manager&theme=tokyonight&show_owner=true" alt="API Task_Manager Project">
+    <img src="" alt="API Task_Manager Project">
   </a>
   <a href="https://github.com/jeived2077/Task_Manager" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=Task_Manager&theme=tokyonight&show_owner=true" alt="Task_Manager Project">
+    <img src="" alt="Task_Manager Project">
   </a>
   <a href="https://github.com/jeived2077/Smart_Task_Manager" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=Smart_Task_Manager&theme=tokyonight&show_owner=true" alt="Smart_Task_Manager Project">
+    <img src="" alt="Smart_Task_Manager Project">
   </a>
 </div>
 
