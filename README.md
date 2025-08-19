@@ -1,55 +1,117 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0077FF&center=true&vCenter=true&width=435&lines=Привет!+Я+Максим.;Backend-разработчик.;Рад+видеть+вас+здесь!+👋" alt="Typing SVG">
+  </a>
+</div>
 
+<div align="center">
+  <p>
+    <strong>Backend-разработчик из Курска, сфокусированный на Python.</strong><br/>
+    Создаю надёжные, масштабируемые и эффективные бэкенд-системы для современных веб-приложений.<br/>
+    Моя философия — чистый код, продуманная архитектура и фокус на решении задач.
+  </p>
+</div>
 
-### Привет! Я Максим  👋
-
-[cite_start]Я Backend-разработчик из Курска, сфокусированный на Python[cite: 4, 34]. [cite_start]Моя цель — создание надёжных, масштабируемых и эффективных бэкенд-систем, которые поддерживают современные веб-приложения[cite: 35]. [cite_start]Я постоянно изучаю новые технологии и фреймворки, чтобы быстро адаптироваться к изменяющимся требованиям рынка[cite: 36, 37]. [cite_start]Моя философия основана на принципах чистого кода, продуманной архитектуры и эффективного решения задач[cite: 41].
-
----
-
-### 🛠 Технологии и навыки
-
-**Языки программирования:**
-* [cite_start]Python (основной) [cite: 44]
-* [cite_start]Java (Java Core: понимание принципов ООП, опыт работы с коллекциями и многопоточностью) [cite: 44]
-* [cite_start]C# (базовые знания) [cite: 44]
-
-**Backend Frameworks:**
-* [cite_start]FastAPI (опыт разработки) [cite: 45]
-* [cite_start]Flask (общее представление) [cite: 45]
-* [cite_start]Django [cite: 28]
-
-**Базы данных и ORM:**
-* [cite_start]PostgreSQL (опыт работы) [cite: 46]
-* [cite_start]MySQL (опыт работы) [cite: 46]
-* [cite_start]SQLAlchemy [cite: 46]
-* [cite_start]Redis (основы) [cite: 46]
-* [cite_start]MySQL (основы) [cite: 46]
-
-**DevOps и Инфраструктура:**
-* [cite_start]Linux (Уверенное использование Ubuntu для разработки и деплоя backend-приложений) [cite: 53]
-* [cite_start]Docker (Базовое понимание контейнеризации, создание и запуск Docker-контейнеров) [cite: 53]
-* [cite_start]Docker Compose (Использование для оркестровки нескольких контейнеров) [cite: 54]
-* [cite_start]Nginx (Базовые навыки настройки в качестве reverse proxy) [cite: 55]
-
-**Инструменты:**
-* [cite_start]Git (опыт работы с Git Flow) [cite: 57]
-* [cite_start]Postman (тестирование API) [cite: 57]
+<div align="center">
+  <a href="https://github.com/jeived2077" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/jeived" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://vk.com/jeived" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
+  </a>
+  <a href="mailto:jeived777@yandex.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
-### 📂 Проекты
+### 🚀 Технологии и навыки
 
-
-**SoundMusic** — на данный момент это была моя дипломная работа и в честь этого я начал её переделывать так как она отвратительно до этого работало.
-**API Task_Manager** — создаю api для своего pet проекта работа с fronted работа с задачами и проектов для кадров.
-**Task_Manager** — Это уже fronted разработка pet проекта написано на flutter фреймворки под Android Windows Linux Ios.
-**Smart_Task_Manager** — это умный диспетчер задач нужен для проверки нагрузки и проверка на вирусные программы в процессах компьютера также включает и взаимодействие с другими такими же программами для передачу данных к родительскому приложению (например преподаватель сможет сразу же узнать данные и нагрузки пк о каждом учебном компьютере).
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Языки программирования:</strong><br/>
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" /> Python <small>(Продвинутый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" /> Java <small>(Средний)</small><br/>
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" /> C# <small>(Базовый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> Kotlin <small>(Средний)</small>
+    </td>
+    <td width="50%">
+      <strong>Backend & Frameworks:</strong><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> FastAPI <small>(Продвинутый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" /> Django <small>(Знаком)</small><br/>
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" /> Flask <small>(Знаком)</small><br/>
+      <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET" /> ASP.NET <small>(Базовый)</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Mobile Development:</strong><br/>
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /> Flutter <small>(Продвинутый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android SDK" /> Android SDK <small>(Средний)</small><br/>
+      <img src="https://skillicons.dev/icons?i=jetpackcompose" alt="Jetpack Compose" /> Jetpack Compose <small>(Средний)</small>
+    </td>
+    <td width="50%">
+      <strong>Базы данных и ORM:</strong><br/>
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /> PostgreSQL & SQLAlchemy <small>(Продвинутый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> MySQL <small>(Средний)</small><br/>
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /> Redis <small>(Базовый)</small>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>DevOps и Инструменты:</strong><br/>
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> Docker & Docker Compose <small>(Средний)</small><br/>
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> Linux (Ubuntu) <small>(Продвинутый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /> Nginx <small>(Базовый)</small><br/>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" /> Git & Git Flow <small>(Продвинутый)</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Связаться со мной
+### 💻 Среды разработки (IDE)
 
-* [cite_start]**GitHub:** [https://github.com/jeived2077](https://github.com/jeived2077) [cite: 67]
-* [cite_start]**Telegram:** [https://t.me/jeived](https://t.me/jeived) [cite: 68]
-* [cite_start]**VK:** [https://vk.com/jeived](https://vk.com/jeived) [cite: 69]
-* [cite_start]**Email:** [jeived777@yandex.ru](mailto:jeived777@yandex.ru) [cite: 70]
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pycharm,idea,androidstudio,visualstudio" />
+</div>
+
+---
+
+### 📂 Избранные проекты
+
+<div align="center">
+  <a href="https://github.com/jeived2077/SoundMusic" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=SoundMusic&theme=tokyonight&show_owner=true" alt="SoundMusic Project">
+  </a>
+  <a href="https://github.com/jeived2077/API_Task_Manager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=API_Task_Manager&theme=tokyonight&show_owner=true" alt="API Task_Manager Project">
+  </a>
+  <a href="https://github.com/jeived2077/Task_Manager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=Task_Manager&theme=tokyonight&show_owner=true" alt="Task_Manager Project">
+  </a>
+  <a href="https://github.com/jeived2077/Smart_Task_Manager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeived2077&repo=Smart_Task_Manager&theme=tokyonight&show_owner=true" alt="Smart_Task_Manager Project">
+  </a>
+</div>
+
+---
+
+### 📊 Статистика GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeived2077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Статистика GitHub">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeived2077&layout=compact&langs_count=8&theme=tokyonight" alt="Основные языки">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeived2077&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
