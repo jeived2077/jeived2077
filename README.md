@@ -20,6 +20,7 @@
 
 **Базы данных и ORM:**
 * [cite_start]PostgreSQL (опыт работы) [cite: 46]
+* [cite_start]MySQL (опыт работы) [cite: 46]
 * [cite_start]SQLAlchemy [cite: 46]
 * [cite_start]Redis (основы) [cite: 46]
 * [cite_start]MySQL (основы) [cite: 46]
