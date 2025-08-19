@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    <strong>Backend-разработчик из Курска, сфокусированный на Python.</strong><br/>
+    <strong>Backend-разработчик, сфокусированный на Python.</strong><br/>
     Создаю надёжные, масштабируемые и эффективные бэкенд-системы для современных веб-приложений.<br/>
     Моя философия — чистый код, продуманная архитектура и фокус на решении задач.
   </p>
@@ -14,7 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/jeived2077" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+>
   </a>
   <a href="https://t.me/jeived" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
