@@ -86,16 +86,19 @@
 ### 📂 Избранные проекты
 
 <div align="center">
-  <a href="https://github.com/jeived2077/SoundMusic" target="_blank">
+   <a href="https://github.com/jeived2077/ServerFlask-master" target="_blank">
+    <img src="" alt="ServerFlask Project">
+  </a>
+  <a href="https://github.com/jeived2077/SoundMusic-Course-Work-WPF-" target="_blank">
     <img src="" alt="SoundMusic Project">
   </a>
-  <a href="https://github.com/jeived2077/API_Task_Manager" target="_blank">
+  <a href="https://github.com/jeived2077/FastApiTaskManager" target="_blank">
     <img src="" alt="API Task_Manager Project">
   </a>
-  <a href="https://github.com/jeived2077/Task_Manager" target="_blank">
+  <a href="https://github.com/jeived2077/TaskManagerFrontedFlutter" target="_blank">
     <img src="" alt="Task_Manager Project">
   </a>
-  <a href="https://github.com/jeived2077/Smart_Task_Manager" target="_blank">
+  <a href="https://github.com/jeived2077/SmartTaskManager" target="_blank">
     <img src="" alt="Smart_Task_Manager Project">
   </a>
 </div>
