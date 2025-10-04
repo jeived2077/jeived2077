@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeived2077/jeived2077/main/profile_banner.png" alt="Full Stack Developer Banner">
+  <img src="https://i.ytimg.com/vi/0YTOMTYxLGs/maxresdefault.jpg" alt="Full Stack Developer Banner">
 </p>
 
 <h1 align="center">Привет, я Максим 👋</h1>
