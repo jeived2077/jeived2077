@@ -24,12 +24,12 @@
 
 | Категория          | Технологии                                                              |
 |--------------------|-------------------------------------------------------------------------|
-| **Backend (Python)** | `Python (Django, FastAPI)`, `SQL`                                       |
+| **Backend (Python)** | `Python (, FastAPI)`                                       |
 | **Backend (.NET)** | `C#`, `ASP.NET Core`                                                    |
 | **Desktop** | `WPF`, `.NET Framework`                                                 |
-| **Mobile** | `Java`, `Kotlin`, `Android Studio`                                      |
+| **Mobile** | `Kotlin`, `Android Studio`                                      |
 | **Frontend** | `JavaScript`, `TypeScript`, `React`, `HTML5`, `CSS3`                    |
-| **Базы данных** | `PostgreSQL`, `MS SQL`, `MongoDB`, `Redis`                              |
+| **Базы данных** | `PostgreSQL`, `MS SQL`                             |
 | **DevOps & Tools** | `Docker`, `Git`, `Nginx`, `CI/CD (GitHub Actions)`                      |
 
 ---
